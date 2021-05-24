@@ -1,4 +1,12 @@
+.contenitore {
+    width: 1180px;
+   margin: auto;
+}
  .logo {
+     height: 180px;
      background-image: url(./img/pattern.png);
+     background-repeat: repeat-x;
+     background-color:deepskyblue ;
+    
      
  }
