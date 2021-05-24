@@ -1,6 +1,11 @@
+*{
+    margin: 0;
+}
 .contenitore {
-    width: 1180px;
+   
+    width: 1100px;
     margin:  auto;
+    margin-bottom: 10px;
 }
  .logo {
      height: 180px;
@@ -10,9 +15,7 @@
 }
  .text-logo{
     
-    color: white;
-    padding-top: 5%;
-    padding-left: 2.5%;
+    color: white;   
  }
 
  a {
@@ -21,3 +24,17 @@
   h5 {
       color:lightslategrey;
   }
+
+  header{
+    margin-top: 15px;
+}
+
+p { 
+    margin-top: 20px;
+}
+#importante {
+    background-color: yellow;
+}
+.lista  {
+    margin-top: 20px;
+}
