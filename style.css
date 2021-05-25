@@ -35,6 +35,18 @@ p {
 #importante {
     background-color: yellow;
 }
+.tabella{
+    margin-top: 20px;
+}
 .lista  {
     margin-top: 20px;
+}
+.testo1{
+    width: 20%;
+}
+.testo2{
+    width: 20%;
+}
+.testo3{
+    width: 60%;
 }
