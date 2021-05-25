@@ -29,7 +29,7 @@
     margin-top: 15px;
 }
 
-p { 
+p  { 
     margin-top: 20px;
 }
 #importante {
@@ -61,4 +61,19 @@ p {
 }
 .pari{
     background-color:white;
+}
+#ciccio{
+    margin-top: 20px;
+    color:lightslategrey;
+}
+.fig-1{
+    width: 250px;
+    height: 250px;
+    background-image: url(./img/graph.jpg);
+}
+.fig-2{
+    margin-top: 20px;
+    width: 250px;
+    height: 250px;
+    background-image: url(./img/monitor.jpg);
 }
