@@ -37,7 +37,8 @@ p {
 }
 .tabella{
     margin-top: 20px;
-}
+   
+   }
 .lista  {
     margin-top: 20px;
 }
@@ -49,4 +50,15 @@ p {
 }
 .testo3{
     width: 60%;
+}
+
+.cont{
+    color: white;
+    background-color: deepskyblue;
+}
+.dispari{
+    background-color: aqua;
+}
+.pari{
+    background-color:white;
 }
